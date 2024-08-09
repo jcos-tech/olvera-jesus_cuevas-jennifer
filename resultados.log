@@ -1,0 +1,8 @@
+[2024-08-08 21:55:10] [ INFO] [Main:28] Odontologo{numeroMatricula='001A', nombre='Jesus', apellido='Olvera'}
+[2024-08-08 21:55:10] [ INFO] [Main:29] Odontologo{numeroMatricula='001B', nombre='Jennifer', apellido='Cuevas'}
+[2024-08-08 21:55:10] [ INFO] [Main:33] Odontologo{numeroMatricula='001A', nombre='Jesus', apellido='Olvera'}
+[2024-08-08 21:55:10] [ INFO] [Main:33] Odontologo{numeroMatricula='001B', nombre='Jennifer', apellido='Cuevas'}
+[2024-08-08 21:55:10] [ INFO] [Main:37] Odontologo{numeroMatricula='001V', nombre='Cristian', apellido='Solis'}
+[2024-08-08 21:55:10] [ INFO] [Main:38] Odontologo{numeroMatricula='001F', nombre='Cindy', apellido='Cely'}
+[2024-08-08 21:55:10] [ INFO] [Main:42] Odontologo{numeroMatricula='001V', nombre='Cristian', apellido='Solis'}
+[2024-08-08 21:55:10] [ INFO] [Main:42] Odontologo{numeroMatricula='001F', nombre='Cindy', apellido='Cely'}
